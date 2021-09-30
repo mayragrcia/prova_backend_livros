@@ -6,9 +6,9 @@
 🚀 Alunos: Mayra A. M. Garcia, Rafael Trog
 ℹ
 # Comandos 
-* Restaurar dependencias: dotnet restore 
+*Restaurar dependencias: dotnet restore 
 <br />
-* Rodar o projeto: dotnet watch run
+*Rodar o projeto: dotnet watch run
 
 # Front End
 https://github.com/RafaelTrog/bookofbooks
