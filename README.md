@@ -10,7 +10,7 @@
 
 # ℹ Comandos 
 * Restaurar dependencias: dotnet restore 
-<br />
+
 * Rodar o projeto: dotnet watch run
 
 # 🖥 Front End
