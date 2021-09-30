@@ -1,12 +1,14 @@
-# prova_backend_livros
+# Avaliação prática 29/09/2021 
 
 ##Prova p/ disciplina de Desenvolvimento de Software
-##Professor: Diogo S. Deconto
-##Alunos: Mayra A. M. Garcia, Rafael Trog
+<br />
+Professor: Diogo S. Deconto
+Alunos: Mayra A. M. Garcia, Rafael Trog
 
 # Comandos
-##dotnet restore
-##dotnet watch run
+dotnet restore
+<br />
+dotnet watch run
 
 #Front End
-##https://github.com/RafaelTrog/bookofbooks
+https://github.com/RafaelTrog/bookofbooks
