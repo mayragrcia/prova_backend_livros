@@ -1,14 +1,14 @@
 # Avaliação prática 29/09/2021 
 
-##Prova p/ disciplina de Desenvolvimento de Software
+💡 Prova p/ disciplina de Desenvolvimento de Software
 <br />
-Professor: Diogo S. Deconto
-Alunos: Mayra A. M. Garcia, Rafael Trog
-
-# Comandos
-dotnet restore
+🚀 Professor: Diogo S. Deconto
+🚀 Alunos: Mayra A. M. Garcia, Rafael Trog
+ℹ
+# Comandos 
+* Restaurar dependencias: dotnet restore 
 <br />
-dotnet watch run
+* Rodar o projeto: dotnet watch run
 
-#Front End
+# Front End
 https://github.com/RafaelTrog/bookofbooks
