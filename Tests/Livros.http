@@ -1,0 +1,14 @@
+###
+POST https://localhost:5001/api/livro/create
+Content-Type: application/json
+
+{
+    "Nome" : "Só sei que nada sei",
+    "Autor" : "Desconhecido",
+    "Editora": "Brasil",
+    "Preco": 10
+}
+
+###
+GET https://localhost:5001/api/livro/list
+

@@ -1,0 +1,136 @@
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\appsettings.json
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\provaLivro.exe
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\provaLivro.deps.json
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\provaLivro.runtimeconfig.json
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\provaLivro.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\provaLivro.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\ref\provaLivro.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\provaLivro.pdb
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\staticwebassets\provaLivro.StaticWebAssets.Manifest.cache
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\staticwebassets\provaLivro.StaticWebAssets.xml
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\scopedcss\bundle\provaLivro.styles.css
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.RazorTargetAssemblyInfo.cache
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.csproj.CopyComplete
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\ref\provaLivro.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.pdb
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\obj\Debug\net5.0\provaLivro.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pichau\Desktop\Sistemas de Informação\2 ano\Segundo Semestre\Desenvolvimento de Software Visual\ProvaPrimeiroBimestre\provaLivro\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\appsettings.Development.json
+D:\Prova\prova-back_end\bin\Debug\net5.0\appsettings.json
+D:\Prova\prova-back_end\bin\Debug\net5.0\provaLivro.exe
+D:\Prova\prova-back_end\bin\Debug\net5.0\provaLivro.deps.json
+D:\Prova\prova-back_end\bin\Debug\net5.0\provaLivro.runtimeconfig.json
+D:\Prova\prova-back_end\bin\Debug\net5.0\provaLivro.runtimeconfig.dev.json
+D:\Prova\prova-back_end\bin\Debug\net5.0\provaLivro.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\ref\provaLivro.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\provaLivro.pdb
+D:\Prova\prova-back_end\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Prova\prova-back_end\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.csproj.AssemblyReference.cache
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.AssemblyInfoInputs.cache
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.AssemblyInfo.cs
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.csproj.CoreCompileInputs.cache
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.MvcApplicationPartsAssemblyInfo.cs
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.MvcApplicationPartsAssemblyInfo.cache
+D:\Prova\prova-back_end\obj\Debug\net5.0\staticwebassets\provaLivro.StaticWebAssets.Manifest.cache
+D:\Prova\prova-back_end\obj\Debug\net5.0\staticwebassets\provaLivro.StaticWebAssets.xml
+D:\Prova\prova-back_end\obj\Debug\net5.0\scopedcss\bundle\provaLivro.styles.css
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.RazorTargetAssemblyInfo.cache
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.csproj.CopyComplete
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.dll
+D:\Prova\prova-back_end\obj\Debug\net5.0\ref\provaLivro.dll
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.pdb
+D:\Prova\prova-back_end\obj\Debug\net5.0\provaLivro.genruntimeconfig.cache
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\appsettings.Development.json
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\appsettings.json
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\provaLivro.exe
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\provaLivro.deps.json
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\provaLivro.runtimeconfig.json
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\provaLivro.runtimeconfig.dev.json
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\provaLivro.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\ref\provaLivro.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\provaLivro.pdb
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\prova-back_end-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.csproj.AssemblyReference.cache
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.AssemblyInfoInputs.cache
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.AssemblyInfo.cs
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.csproj.CoreCompileInputs.cache
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\staticwebassets\provaLivro.StaticWebAssets.Manifest.cache
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\staticwebassets\provaLivro.StaticWebAssets.xml
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\scopedcss\bundle\provaLivro.styles.css
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.RazorTargetAssemblyInfo.cache
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.csproj.CopyComplete
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.dll
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\ref\provaLivro.dll
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.pdb
+D:\Desktop\prova-back_end-main\obj\Debug\net5.0\provaLivro.genruntimeconfig.cache
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\appsettings.Development.json
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\appsettings.json
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\provaLivro.exe
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\provaLivro.deps.json
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\provaLivro.runtimeconfig.json
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\provaLivro.runtimeconfig.dev.json
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\provaLivro.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\ref\provaLivro.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\provaLivro.pdb
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\prova-backend-livros\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.csproj.AssemblyReference.cache
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.AssemblyInfoInputs.cache
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.AssemblyInfo.cs
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.csproj.CoreCompileInputs.cache
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\staticwebassets\provaLivro.StaticWebAssets.Manifest.cache
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\staticwebassets\provaLivro.StaticWebAssets.xml
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\scopedcss\bundle\provaLivro.styles.css
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.RazorTargetAssemblyInfo.cache
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.csproj.CopyComplete
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.dll
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\ref\provaLivro.dll
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.pdb
+D:\Desktop\prova-backend-livros\obj\Debug\net5.0\provaLivro.genruntimeconfig.cache
