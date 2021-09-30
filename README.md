@@ -1,4 +1,4 @@
-#💡 Avaliação prática 29/09/2021 - Desenvolvimento de Software
+# 💡 Avaliação prática 29/09/2021 - Desenvolvimento de Software
 
 <br />
 👨🏻‍🏫 Professor: Diogo S. Deconto
@@ -8,10 +8,10 @@
 💻 Backend da aplicação 
 
 
-#ℹ Comandos 
-*Restaurar dependencias: dotnet restore 
+# ℹ Comandos 
+* Restaurar dependencias: dotnet restore 
 <br />
-*Rodar o projeto: dotnet watch run
+* Rodar o projeto: dotnet watch run
 
 # 🖥 Front End
 https://github.com/RafaelTrog/bookofbooks
