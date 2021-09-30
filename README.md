@@ -1,15 +1,17 @@
-# Avaliação prática 29/09/2021 
+#💡 Avaliação prática 29/09/2021 - Desenvolvimento de Software
 
-💡 Prova p/ disciplina de Desenvolvimento de Software
 <br />
-🚀 Professor: Diogo S. Deconto
+👨🏻‍🏫 Professor: Diogo S. Deconto
 <br />
 🚀 Alunos: Mayra A. M. Garcia, Rafael Trog
-ℹ
-# Comandos 
+<br />
+💻 Backend da aplicação 
+
+
+#ℹ Comandos 
 *Restaurar dependencias: dotnet restore 
 <br />
 *Rodar o projeto: dotnet watch run
 
-# Front End
+# 🖥 Front End
 https://github.com/RafaelTrog/bookofbooks
